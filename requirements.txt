@@ -1,0 +1,10 @@
+numpy
+openpyxl
+pandas
+pyarrow
+matplotlib
+plotly
+torch
+torchvision
+jupyter
+ipykernel
